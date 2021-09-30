@@ -1,5 +1,5 @@
 # Palindrome-Birthday
-Palindrome-Birthday Check is a fun game app created using Vanilla JS to check is your birthday is palindrome or not. A palindrome is a word/number which reads the same backward as forward. This app checks your birthdate in 4 formats yyyy-mm-dd, dd-mm-yyyy, mm-dd-yy, m-dd-yyyy.
+Palindrome-Birthday Check is a fun game app created using Vanilla JS to check is your birthday is palindrome or not. A palindrome is a word/number which reads the same backward as forward. This app checks your birthdate in all date formates.
 
 # How it worls
 1. Takes user's birthday
